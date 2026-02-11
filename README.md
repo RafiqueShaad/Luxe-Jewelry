@@ -31,7 +31,7 @@ A stunning, fully responsive jewelry e-commerce website built with modern web te
 
 ## 🚀 Live Demo
 
-[View Live Website](https://rafiqueshaad.github.io/luxe-jewelry-website/)
+[View Live Website](https://github.com/RafiqueShaad/projects/blob/main/index.html)
 
 ## 📱 Pages Included
 
